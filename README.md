@@ -38,9 +38,11 @@ Objective: Understand what makes a password strong and test it using free online
 - Enable **multi-factor authentication** for extra security.
 
 ## 📷 Screenshots
-![Weak Password Test](s.png)
-![Medium Password Test](s1.png)
-![Strong Password Test](s2.png)
+![code](s.png)
+![Interface](s1.png)
+![Weak Password Test](weak.png)
+![Medium Password Test](moderate.png)
+![Strong Password Test](strong.png)
 
 ---
 **Outcome:** Learned how password complexity impacts security and how to create hard-to-crack passwords.
